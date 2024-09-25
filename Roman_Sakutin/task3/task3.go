@@ -8,9 +8,9 @@ func main() {
 		name string
 		age  int
 	)
-	fmt.Scan(name)
+	fmt.Scan(&name)
 	fmt.Println("Введите ваш возраст")
-	fmt.Scan(age)
+	fmt.Scan(&age)
 	fmt.Printf("Ваше имя %v. Ваш возраст %v ", name, age)
 
 }
