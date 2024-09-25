@@ -3,11 +3,14 @@ package main
 import "fmt"
 
 func main() {
-	a := " Как вас зовут?"
-	b := " Какой ваш знак зодиака?"
-	c := " Меня зовут Тимур! "
-	d := " Я козерог"
-	e := " Где вы работаете?"
+	fmt.Println("Введите ваше имя -")
+	var (
+		name string
+		age  int
+	)
+	fmt.Scan(&name)
+	fmt.Println("Введите ваш возраст")
+	fmt.Scan(&age)
+	fmt.Printf("Ваше имя %v. Ваш возраст %v ", name, age)
 
-	fmt.Print("Привет! " + a + c + b + d + e + " Я работаю на заводе")
 }
