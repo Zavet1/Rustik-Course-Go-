@@ -7,8 +7,8 @@ func main() {
 
 	fmt.Print("Метры:")
 	fmt.Scan(&meters)
+	kilomiters := meters
+	fmt.Print("Километры: ")
+	fmt.Print(kilomiters / 1000.0)
 
-	kilometres := meters / 1000.0
-
-	fmt.Print(kilometres / 1000.0)
 }
