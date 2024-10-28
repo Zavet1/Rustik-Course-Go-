@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c4e8c1-619d-4e8e-87b3-de2b1e56b5cb" name="Changes" comment="" />
+    <list default="true" id="b7c4e8c1-619d-4e8e-87b3-de2b1e56b5cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/tasks_and_read_me/readMe/read_me_6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks_and_read_me/readMe/read_me_7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks_and_read_me/readMe/task_6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tasks_and_read_me/readMe/task_7.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +43,7 @@
     &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Loops&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;loops&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
     &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Rustikcourse/Rustik-Course-Go-/Roman_Sakutin&quot;,
@@ -52,7 +58,25 @@
       <recent name="C:\Rustikcourse\Rustik-Course-Go-\Roman_Sakutin\EXTRA" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build poliklinika.go (1)">
+  <component name="RunManager" selected="Go Build.go build awesomeProject/readMe (1)">
+    <configuration name="go build awesomeProject/readMe (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Roman_Sakutin" />
+      <working_directory value="$PROJECT_DIR$/tasks_and_read_me" />
+      <kind value="FILE" />
+      <package value="awesomeProject/readMe" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/tasks_and_read_me/readMe/task_7.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build awesomeProject/readMe" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Roman_Sakutin" />
+      <working_directory value="$PROJECT_DIR$/tasks_and_read_me" />
+      <kind value="FILE" />
+      <package value="awesomeProject/readMe" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/tasks_and_read_me/readMe/task_6.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build poliklinika.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Roman_Sakutin" />
       <working_directory value="$PROJECT_DIR$" />
@@ -69,14 +93,6 @@
       <filePath value="$PROJECT_DIR$/EXTRA/.idea/poliklinika.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build task10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Roman_Sakutin" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/EXTRA/task10.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build task8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Roman_Sakutin" />
       <working_directory value="$PROJECT_DIR$" />
@@ -85,21 +101,13 @@
       <filePath value="$PROJECT_DIR$/EXTRA/task8.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build task9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Roman_Sakutin" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/EXTRA/task9.go" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build awesomeProject/readMe (1)" />
+        <item itemvalue="Go Build.go build awesomeProject/readMe" />
         <item itemvalue="Go Build.go build poliklinika.go (1)" />
         <item itemvalue="Go Build.go build poliklinika.go" />
         <item itemvalue="Go Build.go build task8.go" />
-        <item itemvalue="Go Build.go build task10.go" />
-        <item itemvalue="Go Build.go build task9.go" />
       </list>
     </recent_temporary>
   </component>
